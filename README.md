@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects will soon be available at [delagra.com](delagra.com)
 
-- 💬 Ask me about **Django, Algorithmic trading, Raspberry Pi**
+- 💬 Ask me about **Django, Algorithmic trading, Raspberry Pi, Drones**
 
-- ⚡ Fun fact **I'm a competitive VR player (Population ONE)**
+- ⚡ Fun fact **I'm an FPV drone racer and a competitive VR player (Population ONE)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
